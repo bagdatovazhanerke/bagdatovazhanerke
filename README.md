@@ -1,1 +1,0 @@
-# bagdatovazhanerke.github.io
