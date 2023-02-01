@@ -21,15 +21,6 @@ html, body {
       0px 0px 20px #b393d3;
   }
 
-.logo {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    text-align: center;
-    width: 80px;
-    height: 80px;
-}
-
 img, iframe {
     display: block;
     float: none;
@@ -40,7 +31,6 @@ img, iframe {
     object-fit: cover;
     object-position: bottom;
 }
-
 
 h2 {
     text-align: center;
@@ -109,6 +99,15 @@ a[href*="@"] {
     background-color: silver;
   }
 
-  a[li*="Full Name"] {
+a[li*="Full Name"] {
     background-color: silver;
   }
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+}
